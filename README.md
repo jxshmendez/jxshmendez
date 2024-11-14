@@ -1,7 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Joshua+Mendez;Personal+and+Univeristy+Work+Repo;)](https://git.io/typing-svg)
-
-<h3 align="center">Coding?</h3>
+<h1 align="center">Coding?</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxshmendez&label=Profile%20views&color=0e75b6&style=flat" alt="jxshmendez" /> </p>
 
